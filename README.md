@@ -1,7 +1,6 @@
 <div align="center">
   <br />
   <img src="https://raw.githubusercontent.com/bwielgosz/bwielgosz/master/header.svg" />
-  />
   <br />
 </div>
 
